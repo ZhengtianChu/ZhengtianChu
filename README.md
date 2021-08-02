@@ -5,11 +5,12 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently studying in University of Nottingham.
+- 🔭 I’m currently studying in University of Nottingham, UK.
 - 🌱 I’m currently learning Node.js to build a C-Learning web application.
+- 💬 Ask me about life in Beijing and Ningbo.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about life in Beijing.
+
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
