@@ -3,10 +3,9 @@
 ## Hi there 👋, this is Andrew 
 
 ---
+[![Repos Badge](https://badges.pufler.dev/repos/lakerschampions)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/lakerschampions)](https://badges.pufler.dev)
 
-<!-- **lakerschampions/lakerschampions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
 
 - 🔭 I’m currently studying in **University of Nottingham**.
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/-Node.js-brightgreen) to build a C-Learning web application.
