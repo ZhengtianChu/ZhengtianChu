@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently studying in **University of Nottingham**.
-- 🌱 I’m currently learning ![](https://img.shields.io/badge/-Node.js-brightgreen) to build a C-Learning web application.
+- 🌱 I’m currently using ![](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=nodedotjs) and ![](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb) to build a C-Learning web application.
 - 💬 Ask me about life in **Beijing** and **Ningbo**.
 - ⚡ Fun fact: **Software Engineer**, **Machine Learning**
 <!-- - 👯 I’m looking to collaborate on ...
