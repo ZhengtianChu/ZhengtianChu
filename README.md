@@ -27,7 +27,7 @@ Here are some ideas to get you started: -->
 [![Mail Badge](https://img.shields.io/badge/-chuzhengtian99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuzhengtian99@gmail.com)](mailto:chuzhengtian99@gmail.com)
 
 ### GitHub Stats
-![Zhengtian CHU's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakerschampions&layout=compact&hide_border=true&langs_count=10)<br>
+![Zhengtian CHU's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakerschampions&layout=compact&langs_count=10&theme=highcontrast)<br>
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lakerschampions&theme=highcontrast)](https://github.com/lakerschampions/github-readme-stats)
 
