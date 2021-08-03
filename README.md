@@ -1,8 +1,3 @@
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 ## Hi there 👋, this is Andrew 
 [![Repos Badge](https://badges.pufler.dev/repos/lakerschampions)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/lakerschampions)](https://badges.pufler.dev)
@@ -31,3 +26,8 @@ No Activity tracked this Week
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lakerschampions)](https://github.com/lakerschampions/github-readme-stats)
 
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
