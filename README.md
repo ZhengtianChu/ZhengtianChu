@@ -1,4 +1,4 @@
-## Hi there 👋, this is Andrew 
+## Hi👋, this is Andrew 
 [![Repos Badge](https://badges.pufler.dev/repos/lakerschampions)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/lakerschampions)](https://badges.pufler.dev)
 
