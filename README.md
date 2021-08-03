@@ -1,4 +1,7 @@
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 ## Hi there 👋, this is Andrew 
 [![Repos Badge](https://badges.pufler.dev/repos/lakerschampions)](https://badges.pufler.dev)
