@@ -4,8 +4,7 @@
 
 
 - 🔭 I’m currently studying in **University of Nottingham**.
-- 🌱 I’m currently using ![](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=nodedotjs) and ![](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb) to build a C-Learning web application.
-- 💬 Ask me about life in **Beijing** and **Ningbo**.
+- 💬 Ask me about life in **UK** and **Ningbo**.
 - ⚡ Fun fact: **Software Engineer**, **Machine Learning**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
