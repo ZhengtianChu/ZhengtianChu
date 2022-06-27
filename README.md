@@ -3,8 +3,8 @@
 [![Years Badge](https://badges.pufler.dev/years/lakerschampions)](https://badges.pufler.dev)
 
 
-- 🔭 I’m currently studying in **University of Nottingham**.
-- 💬 Ask me about life in **UK** and **Ningbo**.
+- 🔭 I’m currently studying for a cs master degree in **Rice University**.
+- 💬 Ask me about life in **UK**, **US** and **Ningbo**.
 - ⚡ Fun fact: **Software Engineer**, **Machine Learning**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
