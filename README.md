@@ -1,6 +1,6 @@
 ## Hi👋, this is Andrew 
-[![Repos Badge](https://badges.pufler.dev/repos/lakerschampions)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/lakerschampions)](https://badges.pufler.dev)
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/lakerschampions)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/lakerschampions)](https://badges.pufler.dev) -->
 
 
 - 🔭 I’m currently studying for a cs master degree in **Rice University**.
