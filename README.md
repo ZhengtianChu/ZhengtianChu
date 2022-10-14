@@ -17,7 +17,7 @@
 
   
 ### Contact Me
-[![Blog Badge](https://img.shields.io/badge/Blog-1.3k%20pageview-brightgreen)](https://lakerschampions.github.io/) 
+[![Blog Badge](https://img.shields.io/badge/Blog-1.6k%20pageview-brightgreen)](https://lakerschampions.github.io/) 
 [![Mail Badge](https://img.shields.io/badge/-chuzhengtian99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuzhengtian99@gmail.com)](mailto:chuzhengtian99@gmail.com)
 
 ### GitHub Stats
