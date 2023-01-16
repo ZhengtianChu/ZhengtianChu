@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying for a cs master degree in **Rice University**.
 - 💬 Ask me about life in **UK**, **US** and **Ningbo**.
-- ⚡ Fun fact: **Software Engineer**, **Machine Learning**
+- ⚡ Fun fact: **Software Engineering**, **Machine Learning**
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
