@@ -23,4 +23,5 @@
 ### GitHub Stats
 <!-- ![Zhengtian CHU's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakerschampions&layout=compact&langs_count=10)<br> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakerschampions&theme=shadow_blue&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakerschampions&theme=gradient&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakerschampions&hide_progress=false&layout=donut)
