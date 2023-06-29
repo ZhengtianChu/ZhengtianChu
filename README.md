@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Andrew Chu</h1>
-<h3 align="center">A full stack software developer from China</h3>
+<h3 align="center">A humble Chinese CS student in US</h3>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/e465e797a8ba928cea77fee8a9a10f4d/69e2b0dfda87e63f-b2/s500x750/c5de1bdb4fcf0084918c800e1953c93d57d2ca64.gif" />
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakerschampions&title=Repository,MultiLanguage,Stars,Commits,PullRequest,Followers&margin-w=15&theme=flat" alt="lakerschampions"  /></a> </p>
+
+
+- 🔭 I’m currently working on **Internship @ HPE**
+
+- 🌱 I’m currently learning **Next.js, Docker, Server-side Authentication**
+
+- 💬 Ask me about **Life in Texas and China**
+
+- 📫 How to reach me **chuzhengtian99@gmail.com**
+
+- ⚡ Fun fact **Basketball, Soccer, Rainbow 6**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
