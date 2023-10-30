@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrew Chu</h1>
-<h3 align="center">A humble Chinese CS student in US</h3>
+<p align="center">A humble Chinese CS student in US</p>
 
 <p align="center">
   <img src="https://64.media.tumblr.com/e465e797a8ba928cea77fee8a9a10f4d/69e2b0dfda87e63f-b2/s500x750/c5de1bdb4fcf0084918c800e1953c93d57d2ca64.gif" />
