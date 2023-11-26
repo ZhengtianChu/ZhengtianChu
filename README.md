@@ -8,9 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZhengtianChu&title=Repository,MultiLanguage,Stars,Commits,PullRequest,Followers&margin-w=15&theme=flat" alt="ZhengtianChu"  /></a> </p>
 
 
-- 🔭 I’m currently working on **Internship @ HPE**
+- 🔭 I’m currently working **@ HPE**
 
-- 🌱 I’m currently learning **Next.js, Docker, Server-side Authentication**
+- 🌱 I’m currently learning **C++, Docker, Linux, Computer Arch**
 
 - 💬 Ask me about **Life in Texas and China**
 
