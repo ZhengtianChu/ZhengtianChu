@@ -1,29 +1,62 @@
-<h1 align="center">Hi 👋, I'm Andrew Chu</h1>
-<p align="center">A humble Chinese CS student in US</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/e465e797a8ba928cea77fee8a9a10f4d/69e2b0dfda87e63f-b2/s500x750/c5de1bdb4fcf0084918c800e1953c93d57d2ca64.gif" />
-</p>
+# Hi, I'm Andrew (Zhengtian) Chu 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZhengtianChu&title=Repository,MultiLanguage,Stars,Commits,PullRequest,Followers&margin-w=15&theme=flat" alt="ZhengtianChu"  /></a> </p>
+### Software Engineer @ HPE · Builder of practical, local-first software
 
+I enjoy turning complex workflows into useful products — from machine-learning systems and developer tools to privacy-first investing software.
 
-- 🔭 I’m currently working **@ HPE**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhengtianchu/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chuzhengtian99@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-lakerschampions-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/lakerschampions)
 
-- 🌱 I’m currently learning **C++, Docker, Linux, Computer Arch**
+</div>
 
-- 💬 Ask me about **Life in Texas and China**
+## About me
 
-- 📫 How to reach me **chuzhengtian99@gmail.com**
+- 💻 Software engineer at **Hewlett Packard Enterprise**
+- 🧭 Interested in local-first products, developer experience, machine learning, and investing workflows
+- 🛠️ I like owning the full path from an idea to a working product: architecture, implementation, UI, automation, and documentation
+- 🌏 Experience across China and the United States
+- ⚽ Away from the keyboard: basketball, soccer, and games
 
-- ⚡ Fun fact **Basketball, Soccer, Rainbow 6**
+## Featured projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/zhengtianchu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjana-mondal-6b727b1aa" height="30" width="40" /></a>
-<a href="https://instagram.com/andrewchu24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andrewchu24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakerschampions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakerschampions" height="30" width="40" /></a>
-</p>
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [**Trading Dashboard**](https://github.com/ZhengtianChu/stock_perf_tracker) | A bilingual, privacy-first dashboard for stocks, options, portfolio analytics, and trade reviews. Runs locally with no third-party Python dependencies. | Python, SQLite, JavaScript, CSS |
+| [**Wind Turbine Fault Detection**](https://github.com/ZhengtianChu/WT-fault-detection) | Machine-learning research for wind-turbine fault detection using knowledge-transfer techniques. | Python, Jupyter, ML |
+| [**SmileyChat**](https://github.com/ZhengtianChu/SmileyChat) | A full-stack social platform built with a modern web architecture. | Angular, Node.js, JavaScript |
+| [**Super Pokémon**](https://github.com/ZhengtianChu/Super_Pokemon) | A two-player pixel shooting game inspired by Pokémon. | C |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## What I'm working on
+
+- Making **Trading Dashboard** easier to self-host and extend
+- Building reliable automation around personal research and decision-making
+- Exploring practical applications of AI that keep users in control of their data
+
+## Toolbox
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=111)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+
+**Web, systems & data**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+<div align="center">
+  <sub>Build useful things. Keep learning. Share what works.</sub>
+</div>
